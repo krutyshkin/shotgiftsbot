@@ -1,159 +1,200 @@
-::: {align="center"}
+<div align="center">
+
 # 🎁 ShotGiftsBot
-
-### Красивые превью NFT‑подарков Telegram
-
+### Красивые превью NFT‑подарков Telegram  
 ### без интерфейса, кнопок и лишнего мусора
 
-`<br>`{=html}
-
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/shotgiftsbot?start=github)
-![GitHub Repo
-stars](https://img.shields.io/github/stars/krutyshkin/shotgiftsbot)
-![GitHub
-forks](https://img.shields.io/github/forks/krutyshkin/shotgiftsbot)
-![GitHub repo
-size](https://img.shields.io/github/repo-size/krutyshkin/shotgiftsbot)
-![GitHub last
-commit](https://img.shields.io/github/last-commit/krutyshkin/shotgiftsbot)
-
-`<br>`{=html}
+![Stars](https://img.shields.io/github/stars/krutyshkin/shotgiftsbot)
+![Forks](https://img.shields.io/github/forks/krutyshkin/shotgiftsbot)
+![Repo Size](https://img.shields.io/github/repo-size/krutyshkin/shotgiftsbot)
+![Last Commit](https://img.shields.io/github/last-commit/krutyshkin/shotgiftsbot)
 
 ### 👉 [Открыть бота ShotGiftsBot](https://t.me/shotgiftsbot?start=github)
 
-`<br>`{=html}
+![Пример](https://raw.githubusercontent.com/selajuf/GiftShotBot/main/done.jpg)
 
-`<img src="https://raw.githubusercontent.com/selajuf/GiftShotBot/main/done.jpg" width="800"/>`{=html}
-:::
+</div>
 
-------------------------------------------------------------------------
+---
 
-# ✨ Что делает бот
+## ✨ Что делает бот
 
-**ShotGiftsBot** превращает обычный NFT‑подарок Telegram\
-в **чистое и красивое изображение**, которое удобно публиковать.
+**ShotGiftsBot** превращает ссылку на NFT‑подарок в Telegram в **чистую красивую картинку**:  
+без интерфейса Telegram, кнопок и лишних элементов — идеально для постов, подборок и коллекций.
 
-Без интерфейса Telegram, кнопок и лишних элементов.
+---
 
-------------------------------------------------------------------------
+## 🚀 Как пользоваться
 
-# 🚀 Как пользоваться
+1. **[Открыть бота](https://t.me/shotgiftsbot?start=github)**
+2. Скопировать ссылку на NFT‑подарок
+3. Отправить ссылку боту
+4. Получить красивое превью
 
-**1️⃣ [Открыть бота](https://t.me/shotgiftsbot?start=github)**
+---
 
-**2️⃣ Скопировать ссылку на NFT подарок**
+## 🖼 Примеры
 
-**3️⃣ Отправить ссылку боту**
-
-**4️⃣ Получить красивую карточку NFT**
-
-------------------------------------------------------------------------
-
-# 🖼 Примеры
-
-### Как выглядит NFT подарок в Telegram
-
-`<img src="https://raw.githubusercontent.com/selajuf/GiftShotBot/main/IMG_3965.jpg" width="800"/>`{=html}
-
-------------------------------------------------------------------------
+### Как выглядит NFT‑подарок в Telegram
+![До](https://raw.githubusercontent.com/selajuf/GiftShotBot/main/IMG_3965.jpg)
 
 ### Как делает ShotGiftsBot
-
-`<img src="https://raw.githubusercontent.com/selajuf/GiftShotBot/main/done.jpg" width="800"/>`{=html}
-
-------------------------------------------------------------------------
+![После](https://raw.githubusercontent.com/selajuf/GiftShotBot/main/done.jpg)
 
 ### Минималистичный стиль
+![Минимализм](https://raw.githubusercontent.com/selajuf/GiftShotBot/main/done_2.jpg)
 
-`<img src="https://raw.githubusercontent.com/selajuf/GiftShotBot/main/done_2.jpg" width="800"/>`{=html}
+---
 
-------------------------------------------------------------------------
+## ⭐ Star History
 
-# 🤖 Telegram Bot
+[![Star History Chart](https://api.star-history.com/svg?repos=krutyshkin/shotgiftsbot&type=Date)](https://star-history.com/#krutyshkin/shotgiftsbot&Date)
 
-👉 **[Запустить ShotGiftsBot](https://t.me/shotgiftsbot?start=github)**
+---
 
-------------------------------------------------------------------------
+## 🧠 FAQ (для Google)
 
-# ⭐ Star History
+**Как сохранить NFT‑подарок Telegram без интерфейса?**  
+Отправь ссылку на подарок в ShotGiftsBot — бот вернёт чистую картинку без кнопок и UI.
 
-`<a href="https://star-history.com/#krutyshkin/shotgiftsbot&Date">`{=html}
-`<img src="https://api.star-history.com/svg?repos=krutyshkin/shotgiftsbot&type=Date" width="700"/>`{=html}
-`</a>`{=html}
+**Как сделать красивое превью NFT‑подарка для канала?**  
+ShotGiftsBot генерирует аккуратную карточку, которую удобно публиковать в Telegram.
 
-------------------------------------------------------------------------
+**Почему подарок “не влезает” в экран и обрезается?**  
+Это частая проблема просмотра в Telegram. ShotGiftsBot собирает подарок в нормальный кадр.
 
-# 🧠 FAQ (Google indexing)
+**Можно ли делиться картинкой в соцсетях?**  
+Да — результат подходит для Telegram, X (Twitter), VK, Threads и т.д.
 
-**Как сохранить NFT подарок Telegram без интерфейса?**\
-Используйте ShotGiftsBot --- отправьте ссылку на NFT подарок и бот
-создаст чистое изображение.
+---
 
-**Как сделать красивый скрин NFT Telegram?**\
-ShotGiftsBot генерирует аккуратное превью NFT подарка без интерфейса.
+## 🔎 GitHub Discover (topics)
 
-**Можно ли публиковать NFT подарок в Telegram канале?**\
-Да, полученное изображение можно использовать в постах и коллекциях.
+Добавь эти **Topics** в репозиторий (Settings → Topics), чтобы лучше искалось в GitHub:
 
-**Зачем нужен ShotGiftsBot?**\
-Чтобы создавать красивые карточки NFT подарков для публикаций.
+`telegram` `telegram-bot` `nft` `nft-gifts` `telegram-nft` `nft-preview` `nft-tools` `preview-generator` `image-generator` `telegram-tools`
 
-------------------------------------------------------------------------
+---
 
-# 🔎 GitHub Discover Topics
+## 🔑 SEO запросы (100+)
 
-telegram\
-telegram-bot\
-nft\
-nft-gifts\
-telegram-nft\
-telegram-tools\
-nft-preview\
-telegram-utility
+как оформить nft подарок в telegram  
+как красиво оформить nft подарок telegram  
+как сохранить nft подарок telegram  
+как сделать скрин nft telegram без кнопок  
+скрин nft telegram без интерфейса  
+nft подарок без интерфейса telegram  
+как убрать кнопки с nft подарка telegram  
+nft подарок не влезает в экран telegram  
+как сделать nft подарок красивым  
+редкость nft telegram оформить  
+telegram nft frame generator  
+telegram nft gift preview  
+telegram nft gift image  
+telegram nft gift screenshot  
+telegram nft gift without ui  
+telegram nft gift clean preview  
+telegram nft gift card generator  
+telegram nft gift preview bot  
+telegram nft preview generator  
+telegram nft preview tool  
+telegram nft preview bot  
+telegram nft image generator  
+telegram nft card preview  
+telegram nft card render  
+telegram nft display tool  
+telegram nft screenshot generator  
+telegram nft screenshot tool  
+telegram nft screenshot cleaner  
+telegram nft clean screenshot  
+telegram nft gift render  
+telegram nft gift viewer  
+telegram nft gift export  
+telegram nft gift png  
+telegram nft gift high quality image  
+telegram nft gift share image  
+telegram nft gift showcase  
+telegram nft gift gallery  
+telegram nft tools  
+telegram nft utility  
+telegram nft helper  
+telegram gift nft preview  
+telegram gift nft image  
+telegram gift nft generator  
+telegram gift nft screenshot  
+telegram gift nft showcase  
+telegram gift nft export  
+nft gift telegram bot  
+nft preview telegram bot  
+nft screenshot telegram bot  
+как скачать nft подарок telegram  
+как поделиться nft подарком telegram  
+как отправить nft подарок красиво  
+как оформить nft подарок для поста  
+как сделать nft подарок для канала  
+как сделать красивый скрин nft telegram  
+как сохранить nft подарок без кнопок  
+как сохранить nft подарок красиво  
+как сделать nft preview telegram  
+telegram nft gift formatter  
+telegram nft gift visual generator  
+telegram nft gift visual preview  
+telegram nft gift render tool  
+telegram nft gift card preview  
+telegram nft gift display generator  
+telegram nft gift image export  
+telegram nft gift screenshot tool  
+telegram nft gift preview generator  
+telegram nft gift viewer bot  
+telegram nft gift generator bot  
+telegram nft gift frame bot  
+telegram nft gift render bot  
+telegram nft gift screenshot bot  
+telegram nft gift social share  
+telegram nft gift presentation  
+telegram nft gift collection image  
+telegram nft gift clean image  
+telegram nft gift cropped fix  
+telegram nft gift cut off fix  
+telegram nft full image  
+telegram nft gift full preview  
+telegram nft gift high quality screenshot  
+telegram nft gift clean screenshot  
+telegram nft gift image maker  
+telegram nft gift preview maker  
+telegram nft gift card maker  
+telegram nft gift showcase image  
+telegram nft gift share picture  
+telegram nft gift picture  
+telegram nft gift png export  
+telegram nft gift jpg export  
+telegram nft gift export image  
+telegram nft gift export png  
+telegram nft gift export jpg  
+telegram nft gift render generator  
+telegram nft gift preview creator  
+telegram nft preview creator  
+telegram nft preview cleaner  
+telegram nft gift clean viewer  
+telegram nft gift clean renderer  
+telegram nft gift frame maker  
+telegram nft gift borderless image  
+telegram nft gift without buttons  
+telegram nft gift without interface  
+telegram nft gift no ui  
+telegram nft gift no buttons  
+telegram nft gift clean card  
+telegram nft gift clean render  
+telegram nft gift clean frame  
+telegram nft gift clean export  
+telegram nft gift clean screenshot generator  
+telegram nft gift clean preview generator  
+telegram nft gift clean image generator  
+telegram nft gift generator telegram  
+telegram nft gift telegram bot  
+telegram nft gift bot telegram  
 
-------------------------------------------------------------------------
+---
 
-# 🔑 SEO запросы
-
-как оформить nft подарок в telegram как красиво оформить nft подарок
-telegram как сохранить nft подарок telegram как сделать скрин nft
-telegram как поделиться nft подарком telegram как скачать nft подарок
-telegram как сделать красивый nft подарок telegram как сохранить nft
-подарок без интерфейса nft подарок telegram без кнопок как убрать
-интерфейс telegram с nft telegram nft gift preview telegram nft gift
-image telegram nft gift screenshot telegram nft gift frame telegram nft
-gift render telegram nft gift display telegram nft gift export telegram
-nft gift viewer telegram nft gift generator telegram nft gift screenshot
-tool telegram nft preview generator telegram nft preview tool telegram
-nft preview bot telegram nft image generator telegram nft card generator
-telegram nft card preview telegram nft card render telegram nft display
-tool telegram nft visual generator как сделать скрин nft telegram без
-интерфейса как сохранить nft подарок без кнопок как оформить nft подарок
-для поста как сделать nft подарок для канала telegram nft screenshot
-generator telegram nft screenshot tool telegram nft screenshot cleaner
-telegram nft screenshot without ui telegram nft clean screenshot
-telegram nft gift bot telegram nft gift preview bot telegram nft gift
-render bot telegram nft gift screenshot bot telegram nft gift frame bot
-telegram nft gift generator bot nft gift telegram bot nft preview
-telegram bot nft screenshot telegram bot telegram nft gift share image
-telegram nft gift showcase telegram nft gift gallery telegram nft gift
-image export telegram nft gift png export telegram nft gift clean
-preview telegram nft gift high quality image telegram nft render
-generator telegram nft preview render telegram nft visual preview
-telegram nft showcase generator telegram nft gift visual generator
-telegram nft gift visual preview telegram nft tools telegram nft utility
-telegram nft helper telegram nft creator telegram nft editor telegram
-nft formatter nft telegram preview tool nft telegram image generator nft
-telegram gift preview nft telegram screenshot tool nft telegram gift
-render nft telegram gift viewer telegram gift nft preview telegram gift
-nft image telegram gift nft generator telegram gift nft renderer
-telegram gift nft screenshot telegram gift nft showcase telegram gift
-nft export telegram gift nft cleaner telegram gift nft formatter
-telegram gift nft preview generator telegram gift nft display tool
-telegram gift nft card generator telegram gift nft card preview telegram
-gift nft render tool telegram gift nft share image telegram gift nft
-preview image telegram gift nft high quality telegram gift nft clean
-image telegram gift nft visual preview telegram gift nft gallery
-telegram gift nft collection image telegram gift nft presentation
-telegram gift nft preview export telegram gift nft social share telegram
-gift nft render generator
+### 👉 [Запустить бота](https://t.me/shotgiftsbot?start=github)
