@@ -7,7 +7,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/shotgiftsbot?start=github)
 ![Stars](https://img.shields.io/github/stars/krutyshkin/shotgiftsbot)
 ![Forks](https://img.shields.io/github/forks/krutyshkin/shotgiftsbot)
-![Repo Size](https://img.shields.io/github/repo-size/krutyshkin/shotgiftsbot)
 ![Last Commit](https://img.shields.io/github/last-commit/krutyshkin/shotgiftsbot)
 
 ### 👉 [Открыть бота ShotGiftsBot](https://t.me/shotgiftsbot?start=github)
